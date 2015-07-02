@@ -4,5 +4,4 @@
 4. Copy the selected host code
 5. Code file hosts, at the end of your code.
 6. The hosts file back to the address [C:\Windows\System32\Drivers\etc]
-
-* And now enjoy unrestricted Raidcall
+7. And now enjoy unrestricted Raidcall
